@@ -7,6 +7,8 @@ This repository is based on sleep hours. It will categorized your sleep hours.
 ## This sleep hour teller is an interactive sleep hour teller. You have enter your name first,after that it will ask you when did you went to sleep (in hours) and when you woke up (in hours)
 It will tell your sleep hour and also it will categorized your sleep.
 
+<img align="right" width=250 height=300 src="https://user-images.githubusercontent.com/85073963/123422849-6b05dd80-d5dc-11eb-8942-70ba44f9d691.gif">
+
 |name|class|
 |---|---|
 |Sleep hr|Category|
