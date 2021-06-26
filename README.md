@@ -23,8 +23,12 @@ It will tell your sleep hour and also it will categorized your sleep.
 - It will tell you the sleep hour and will show a message according to the category mentioned above.
 
 ## Technologies Used
+**OS USED** Windows 10
 - **VS Code Editor** (For Code)
 - **GitHub** (For Documentation)
 
 ## OUTPUT 
-![sleep teller hour py - output](https://user-images.githubusercontent.com/85073963/123509157-84b52c80-d691-11eb-98e2-89ecbd3f3a7d.gif)
+![sleep teller hour py - output](https://user-images.githubusercontent.com/85073963/123509157-84b52c80-d691-11eb-98e2-89ecbd3f3a7d.gif)\
+
+## How to use?
+
