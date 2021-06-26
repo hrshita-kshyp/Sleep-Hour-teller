@@ -27,3 +27,4 @@ It will tell your sleep hour and also it will categorized your sleep.
 - **GitHub** (For Documentation)
 
 ## OUTPUT 
+![sleep teller hour py - output](https://user-images.githubusercontent.com/85073963/123509157-84b52c80-d691-11eb-98e2-89ecbd3f3a7d.gif)
