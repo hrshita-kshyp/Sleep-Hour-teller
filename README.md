@@ -27,7 +27,7 @@
 - **GitHub** (For Documentation)
 
 ## OUTPUT 
-![sleep teller hour py - output](https://user-images.githubusercontent.com/85073963/123509157-84b52c80-d691-11eb-98e2-89ecbd3f3a7d.gif)\
+![sleep teller hour py - output](https://user-images.githubusercontent.com/85073963/123509157-84b52c80-d691-11eb-98e2-89ecbd3f3a7d.gif)
 
 ## How to use?
 ![use sht](https://user-images.githubusercontent.com/85073963/123511514-55a5b780-d69f-11eb-9383-ea95747040e3.gif)
