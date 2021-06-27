@@ -33,9 +33,9 @@
 
 open Git Bash
 Clone my repository using:
-
+```html
 git clone https://github.com/hrshita-kshyp/Sleep-Hour-teller
-
+```
 **Alternative way**
 ![use sht](https://user-images.githubusercontent.com/85073963/123511514-55a5b780-d69f-11eb-9383-ea95747040e3.gif)
 
