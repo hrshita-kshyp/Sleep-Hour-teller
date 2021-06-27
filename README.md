@@ -8,9 +8,8 @@
 
 <img align="right" width=200 height=200 src="https://user-images.githubusercontent.com/85073963/123422849-6b05dd80-d5dc-11eb-8942-70ba44f9d691.gif">
 
-|name|class|
-|---|---|
 |Sleep hr|Category|
+|---|---|
 |Equal to or more than 8 hrs|"You have slept enough"|
 |Less than 8 hrs|You need some more sleep|
 
