@@ -22,9 +22,7 @@ class ScreenOne:
      else:
       print("Unknown choice")
       break
-      
-    def changer(self,*args):
-        self.manager.current = 'screen2'
+    
 
 def one():
         
