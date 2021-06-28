@@ -1,13 +1,5 @@
-import kivy
-from kivy.app import App
-from kivy.lang import Builder
-from pygame import mixer
-from kivy.uix.textinput import TextInput
-from kivy.properties import StringProperty, NumericProperty, ObjectProperty
-from playsound import playsound
-from functools import partial
-from kivy.uix.screenmanager import ScreenManager, Screen
 
+from pygame import mixer
 
 class ScreenOne:
  def screen(self):
