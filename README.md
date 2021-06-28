@@ -1,6 +1,6 @@
 # Sleep-Hour-teller
 
-## This sleep hour teller is an interactive sleep hour teller with music.
+## This sleep hour teller is an interactive sleep hour teller with a option of playing sleep musics.
 
 <img align="right" width=200 height=200 src="https://user-images.githubusercontent.com/85073963/123422849-6b05dd80-d5dc-11eb-8942-70ba44f9d691.gif">
 
