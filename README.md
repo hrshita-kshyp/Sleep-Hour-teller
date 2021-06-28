@@ -32,8 +32,7 @@
 
 ## How to use?
 
-open Git Bash
-Clone my repository using:
+open Git Bash, Clone my repository using:
 ```html
 git clone https://github.com/hrshita-kshyp/Sleep-Hour-teller
 ```
