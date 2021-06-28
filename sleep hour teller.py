@@ -23,22 +23,22 @@ class ScreenOne:
       print("Unknown choice")
       break
       
-   
+    def changer(self,*args):
+        self.manager.current = 'screen2'
 
 def one():
-  
-        name = input("Enter your name:")
-        print("Hi" '\t' + name + "!")
-        start_time = int(input("Enter when you slept(in hours):"))
-        end_time = int(input("Enter when you wake up(in hours):"))
-        sleep_total = start_time - end_time
-        print(f"You slept for {abs(sleep_total)}")
-        if sleep_total > 8:
-          print("You slept more than enough today")
-        if sleep_total == 8:
-          print("You slept enough")
-        else:
+        
+  name = input("Enter your name:")
+  print("Hi" '\t' + name + "!")
+  start_time = int(input("Enter when you slept(in hours):"))
+  end_time = int(input("Enter when you wake up(in hours):"))
+  sleep_total = start_time - end_time
+  print(f"You slept for {abs(sleep_total)}")
+  if sleep_total >8:
+          print("You slept more than enough for today")
+  else:
           print("You need more sleep")
+  print("GoodBye!")
 
 
 def two():
@@ -73,7 +73,9 @@ def two():
             
                   # Stop the mixer
                   mixer.music.stop()
+                  print("GoodBye!")
                   break
+            
  
    elif music_choice == 2:
   
@@ -100,7 +102,9 @@ def two():
             
                   # Stop the mixer
                   mixer.music.stop()
+                  print("GoodBye!")
                   break
+            
    elif music_choice == 3:
   
            mixer.init()
@@ -126,9 +130,11 @@ def two():
             
                   # Stop the mixer
                   mixer.music.stop()
+                  print("GoodBye!")
                   break
-             
+           
    
+
 a= ScreenOne()
 a.screen()
 
