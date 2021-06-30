@@ -3,9 +3,10 @@ import os
 class ScreenOne:
  def screen(self):
     os.system("cls")
+
     print("-------------------------------------------------------------------------------")
     print("-------------------------------------------------------------------------------")
-    print("                       WELCOME TO SLEEP HOUR TELLER     ")
+    print("                   WELCOME TO SLEEP HOUR TELLER WITH SLEEP MUSIC               ")
     print("--------------------------------------------------------------------------------")
     print("-------------------------------------------------------------------------------")
     print("                   1.Sleep Hour calculator and categorizer ")
@@ -26,7 +27,10 @@ class ScreenOne:
      
 
 def one():
-  os.system("cls")      
+  os.system("cls")   
+  print("--------------------------------------------------------------------------------------") 
+  print("             Sleep Hour calculator and categorizer                                    ") 
+  print("--------------------------------------------------------------------------------------")  
   name = input("Enter your name:")
   print("Hi" '\t' + name + "!")
   start_time = int(input("Enter when you slept(in hours):"))
@@ -43,7 +47,8 @@ def one():
 
 def two():
    os.system("cls")
-   print("----------------------**Music List**--------------------------------")
+   print("--------------------------------------------------------------------")
+   print("                          Music List                                ")
    print("--------------------------------------------------------------------")
    print("                    1. Relaxing music 1")
    print("                    2. Relaxing music 2")
@@ -52,7 +57,7 @@ def two():
    music_choice = int( input("Which music you want to play? Enter serial number:"))
    if music_choice == 1:
      mixer.init()
-     mixer.music.load("music3.mp3")
+     mixer.music.load("music.mp3")
      mixer.music.set_volume(1.2)
         # Start playing the song
      mixer.music.play()
