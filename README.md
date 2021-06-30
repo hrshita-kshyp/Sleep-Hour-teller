@@ -27,7 +27,8 @@
 - **GitHub** (For Documentation)
 
 ## OUTPUT 
-![output](https://user-images.githubusercontent.com/85073963/123641619-12cf1580-d840-11eb-9eeb-63eaf2712943.gif)
+![sleep hour teller](https://user-images.githubusercontent.com/85073963/123914893-88042d00-d99d-11eb-8b52-661cf811dc32.gif)
+
 
 
 ## How to use?
