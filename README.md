@@ -27,7 +27,8 @@
 - **GitHub** (For Documentation)
 
 ## OUTPUT 
-![sleep hour teller](https://user-images.githubusercontent.com/85073963/123914893-88042d00-d99d-11eb-8b52-661cf811dc32.gif)
+![sleep-hour-teller py-Untitled-_Workspace_-Visual-Studio-Code-2021-06-30-16-34-45](https://user-images.githubusercontent.com/85073963/123997000-8a8e7300-d9ed-11eb-8e80-174694800ff2.gif)
+
 
 
 
