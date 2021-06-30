@@ -58,7 +58,7 @@ def two():
    if music_choice == 1:
      mixer.init()
      mixer.music.load("music.mp3")
-     mixer.music.set_volume(1.2)
+     mixer.music.set_volume(4)
         # Start playing the song
      mixer.music.play()
      while True:
@@ -87,7 +87,7 @@ def two():
   
             mixer.init()
             mixer.music.load("music2.mp3")
-            mixer.music.set_volume(1.2)
+            mixer.music.set_volume(4)
            # Start playing the song
             mixer.music.play()
             while True:
@@ -115,7 +115,7 @@ def two():
   
            mixer.init()
            mixer.music.load("music3.mp3")
-           mixer.music.set_volume(1.2)
+           mixer.music.set_volume(4)
           # Start playing the song
            mixer.music.play()
            while True:
