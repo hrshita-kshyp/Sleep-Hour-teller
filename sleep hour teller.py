@@ -1,8 +1,8 @@
-
 from pygame import mixer
-
+import os
 class ScreenOne:
  def screen(self):
+    os.system("cls")
     print("-------------------------------------------------------------------------------")
     print("-------------------------------------------------------------------------------")
     print("                       WELCOME TO SLEEP HOUR TELLER     ")
@@ -22,24 +22,27 @@ class ScreenOne:
      else:
       print("Unknown choice")
       break
-    
+      
+     
 
 def one():
-        
+  os.system("cls")      
   name = input("Enter your name:")
   print("Hi" '\t' + name + "!")
   start_time = int(input("Enter when you slept(in hours):"))
   end_time = int(input("Enter when you wake up(in hours):"))
   sleep_total = start_time - end_time
   print(f"You slept for {abs(sleep_total)}")
-  if sleep_total >8:
+  if sleep_total >8 :
           print("You slept more than enough for today")
   else:
           print("You need more sleep")
   print("GoodBye!")
 
 
+
 def two():
+   os.system("cls")
    print("----------------------**Music List**--------------------------------")
    print("--------------------------------------------------------------------")
    print("                    1. Relaxing music 1")
