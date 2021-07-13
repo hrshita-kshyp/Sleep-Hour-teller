@@ -26,6 +26,9 @@
 - **VS Code Editor** (For Code)
 - **GitHub** (For Documentation)
 
+## VIDEO EXPLANATION 
+**[VIDEO](https://youtu.be/NHQpx24xUSc)**
+
 ## OUTPUT 
 ![sleep-hour-teller py-Untitled-_Workspace_-Visual-Studio-Code-2021-06-30-16-34-45](https://user-images.githubusercontent.com/85073963/123997000-8a8e7300-d9ed-11eb-8e80-174694800ff2.gif)
 
